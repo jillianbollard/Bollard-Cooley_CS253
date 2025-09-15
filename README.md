@@ -1,4 +1,4 @@
 # Bollard-Cooley_CS253
-Emory Cooley & Jillian Bollard
-09/12/2025
-Git in Pairs CS253 Software Development
+Authors: Emory Cooley & Jillian Bollard<br>
+Date: 09/15/2025<br>
+Name: Git in Pairs CS253 Software Development
